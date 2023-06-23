@@ -20,7 +20,7 @@ Useful binds to know:
 - L-pf : Fuzzy find files
 
 - L-a : Harpoon mark file
-- C-w : Check harpoon marks
+- C-e : Check/edit harpoon marks
 
 - C-h,j,k,l : Instantly move to harpoon files
 
